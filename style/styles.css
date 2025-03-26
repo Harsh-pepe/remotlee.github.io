@@ -153,7 +153,7 @@ button:hover {
 }
 
 .home {
-    background-image: url("../images/home.jpg");
+    background-image: url("../images/1.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -173,20 +173,17 @@ button:hover {
 }
 
 .about {
-    background-color: #ffffff;
-}
-
-.contact {
-    background-image: url("../images/contact.jpg");
+    background-image: url("../images/2.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* background-color: #fea7ee; */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
+
+ 
 .chat {
     background-image: url("../images/chat.jpg");
     background-size: cover;
